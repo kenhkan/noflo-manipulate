@@ -4,3 +4,17 @@ This package contains more arcane manipulation of objects, packets, and groups
 in NoFlo. Core packages like `noflo-objects`, `noflo-packets`, and
 `noflo-groups` should not depend on other packages so this package is created
 to contain graphs that depend on multiple packages.
+
+## Usage
+
+### GroupValueByAnother
+
+Take in an object, extract some value by key and group that with another value
+of the object.
+
+In-ports
+
+* `GROUPING`: The key of the value to be used for the group
+* `ENCLOSED`: The key of the value to be grouped
+* `IN`: Take in a JavaScript object
+* `OUT`: The enclosed value grouped by the grouping value
