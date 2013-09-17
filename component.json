@@ -1,0 +1,18 @@
+{
+  "name": "noflo-manipulate",
+  "description": "Advanced manipulation of objects, packets, and groups in NoFlo",
+  "version": "0.0.0",
+  "author": "Kenneth Kan <kenhkan@gmail.com>",
+  "repo": "kenhkan/noflo-manipulate",
+  "keywords": [
+  ],
+  "dependencies": {
+    "noflo/noflo": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "json": [
+    "component.json"
+  ]
+}
