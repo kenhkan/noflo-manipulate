@@ -17,4 +17,7 @@ In-ports
 * `GROUPING`: The key of the value to be used for the group
 * `ENCLOSED`: The key of the value to be grouped
 * `IN`: Take in a JavaScript object
+
+Out-ports
+
 * `OUT`: The enclosed value grouped by the grouping value
