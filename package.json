@@ -1,7 +1,7 @@
 {
   "name": "noflo-manipulate",
   "description": "Advanced manipulation of objects, packets, and groups in NoFlo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": {
     "name": "Kenneth Kan",
     "email": "kenhkan@gmail.com"
